@@ -1,0 +1,6 @@
+#number of continuous play of chat
+count: 3
+#seconds
+interval: 2
+#seconds
+mute_time: 20

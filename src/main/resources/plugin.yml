@@ -1,0 +1,5 @@
+name: AntiSpam
+main: mydeacy.antispam.AntiSpam
+version: 1.0.0
+author: MyDeacy
+api: ["1.0.0"]

@@ -1,2 +1,2 @@
 # AntiSpam
-Anti spam
+plugin for protecting chat.
